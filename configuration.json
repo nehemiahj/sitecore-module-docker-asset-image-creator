@@ -1,14 +1,14 @@
 {
-	"Parameters": {
-		"SitecoreAzureToolkitUrl": {
-			"Type": "string",
-			"Description": "The Url of the Sitecore Azure Toolkit",
-			"DefaultValue": "https://sitecoredev.azureedge.net/~/media/AF2BDA90F479458888791F5F0DD33B08.ashx"
-		},
-		"SitecoreAzureToolkitPackageName": {
-			"Type": "string",
-			"Description": "The name of Sitecore Azure Toolkit package",
-			"DefaultValue": "Sitecore Azure Toolkit 2.8.0-r02542.1366.zip"
-		}
-	}
+  "Parameters": {
+    "SitecoreAzureToolkitUrl": {
+      "Type": "string",
+      "Description": "The Url of the Sitecore Azure Toolkit",
+      "DefaultValue": "https://scdp.blob.core.windows.net/downloads/Sitecore%20Azure%20Toolkit/3x/Sitecore%20Azure%20Toolkit%20300/Secure/Sitecore%20Azure%20Toolkit%203.0.0-r02547.1547.zip"
+    },
+    "SitecoreAzureToolkitPackageName": {
+      "Type": "string",
+      "Description": "The name of Sitecore Azure Toolkit package",
+      "DefaultValue": "Sitecore Azure Toolkit 3.0.0-r02547.1547.zip"
+    }
+  }
 }
